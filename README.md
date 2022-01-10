@@ -1,6 +1,6 @@
 # SFTP
 
-These are scripts I made to run on a Debian SFTP server. I learned how to properly secure an Internet exposed device using SELinux and SFTP specific permissions. 
+These are scripts I made to run on a Debian SFTP server. I learned how to secure an Internet exposed device using SELinux and SFTP specific permissions. 
 
 `sftpgen.sh` - Ran the user through a wizard to create a user, set an expiration date 2 weeks in advance, created the UP and DOWN directories with proper permissions, and provides the credentials for the user.
 
